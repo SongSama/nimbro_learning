@@ -1,4 +1,5 @@
 #!/bin/bash
+# just test the git and the tools of the git
 
 # Save the directory this script is located in
 SCRIPTS_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
