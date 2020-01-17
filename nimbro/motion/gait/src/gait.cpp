@@ -1,6 +1,7 @@
 // Generic gait motion module
 // File: gait.cpp
 // Author: Philipp Allgeuer <pallgeuer@ais.uni-bonn.de>
+// Reader: SongSama 20200117
 
 // Includes
 #include <gait/gait.h>
